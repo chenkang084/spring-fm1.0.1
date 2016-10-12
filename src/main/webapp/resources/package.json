@@ -1,0 +1,15 @@
+{
+  "name": "fm",
+  "version": "1.0.0",
+  "description": "spring framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "spring",
+    "framework"
+  ],
+  "author": "kanchen",
+  "license": "MIT"
+}
